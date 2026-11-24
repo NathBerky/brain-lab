@@ -1,6 +1,8 @@
 # NJB Brain Lab · Learner Brain Simulator
 
-**Live:** https://brain-lab.njb-berky.com (English · Čeština · Deutsch)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24503630.svg)](https://doi.org/10.5281/zenodo.24503630)
+
+**Live:** https://brain-lab.njb-berky.com/ (English · Čeština · Deutsch)
 
 A teaching and research simulation of how a learner's brain reads, thinks and answers, built for teachers, researchers and students in education. You pick a learner (typical development, three ADHD presentations, three dyslexia profiles, age, screen and social media history), give it a task or a message, and watch attention, working memory, reading load, dopamine, mind wandering and memory encoding move second by second across a 3D brain.
 
@@ -41,6 +43,15 @@ The report covers: key observations written from the data, eight measures over t
 
 Research access codes go to universities, research assistants and courses. They are time-limited and device-limited.
 
+## Research use
+
+Research access is free for universities and research groups. In return:
+
+- cite the NJB Brain Lab (see [Cite](#cite)), and
+- publications that use the Lab include its author, N.J. Berky, as a co-author.
+
+Access codes, collaborations and validation studies: **njb@njb-berky.com**
+
 ![Unlocking full access](docs/desktop-unlock.jpg)
 ![Submitting a session to research](docs/desktop-research.jpg)
 
@@ -55,7 +66,7 @@ Research access codes go to universities, research assistants and courses. They 
 - Kofler MJ et al. Reaction time variability in ADHD: a meta-analytic review of 319 studies. *Clin Psychol Rev* 2013;33(6):795-811. doi:10.1016/j.cpr.2013.06.001
 - Seli P et al. On the relation of mind wandering and ADHD symptomatology. *Psychon Bull Rev* 2015;22(3):629-36. doi:10.3758/s13423-014-0793-0
 
-The full list of 124 references, with the evidence grade of every parameter, is in the Lab under **Methods**.
+The full list of 124 references, with the evidence grade of every parameter, is in the Lab under **Methods** and in the model description: https://doi.org/10.5281/zenodo.24503630
 
 ## How it is built
 
@@ -68,9 +79,11 @@ The source code is private.
 
 ## Cite
 
-See [CITATION.cff](CITATION.cff), or:
+Model description (technical note, no source code), with DOI:
 
-> NJB Neuro Lab, learner brain simulator, model version 0.5.0, made by N.J. Berky, AI architect. https://brain-lab.njb-berky.com
+> Berky, N.J. (2026). NJB Brain Lab: Learner Brain Simulator. Model description, version 0.5.0 [Technical note]. Zenodo. https://doi.org/10.5281/zenodo.24503630
+
+See also [CITATION.cff](CITATION.cff).
 
 ## Contact
 
