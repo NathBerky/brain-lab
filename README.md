@@ -6,7 +6,7 @@
 
 A teaching and research simulation of how a learner's brain reads, thinks and answers, built for teachers, researchers and students in education. You pick a learner (typical development, three ADHD presentations, three dyslexia profiles, age, screen and social media history), give it a task or a message, and watch attention, working memory, reading load, dopamine, mind wandering and memory encoding move second by second across a 3D brain.
 
-Every parameter of the model is tied to published research. The Lab ships with **124 references** and an evidence grade for each parameter.
+Every parameter of the model is tied to published research and carries an evidence grade.
 
 > Not a diagnosis. Outputs are model estimates of a simulation built from group-level research. They do not describe, assess or diagnose any real child or student.
 
@@ -23,7 +23,7 @@ Every parameter of the model is tied to published research. The Lab ships with *
 
 ## Lab-grade PDF report for every research session
 
-When a research assistant submits a session, the Lab builds a 7-page A4 report and emails it to the research inbox and to the submitter, in the session's language.
+When a research assistant submits a session, the Lab builds an A4 lab report and emails it to the research inbox and to the submitter, in the session's language.
 
 | Summary and key findings | Cognitive dynamics over time | Brain regions over time |
 |---|---|---|
@@ -66,7 +66,7 @@ Access codes, collaborations and validation studies: **njb@njb-berky.com**
 - Kofler MJ et al. Reaction time variability in ADHD: a meta-analytic review of 319 studies. *Clin Psychol Rev* 2013;33(6):795-811. doi:10.1016/j.cpr.2013.06.001
 - Seli P et al. On the relation of mind wandering and ADHD symptomatology. *Psychon Bull Rev* 2015;22(3):629-36. doi:10.3758/s13423-014-0793-0
 
-The full list of 124 references, with the evidence grade of every parameter, is in the Lab under **Methods** and in the model description: https://doi.org/10.5281/zenodo.24503630
+The full reference list, with the evidence grade of every parameter, is in the Lab under **Methods** and in the model description: https://doi.org/10.5281/zenodo.24503630
 
 ## How it is built
 
