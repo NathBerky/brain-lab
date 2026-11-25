@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use the NJB Brain Lab in teaching or research, please cite it as below."
 title: "NJB Brain Lab: Learner Brain Simulator"
-abstract: "A teaching and research simulation of how a learner's brain reads, thinks and answers, with typical development, ADHD and dyslexia profiles whose parameters are tied to published research (124 references, evidence-graded). Outputs are model estimates, not a diagnosis."
+abstract: "A teaching and research simulation of how a learner's brain reads, thinks and answers, with typical development, ADHD and dyslexia profiles whose parameters are tied to published research and evidence-graded. Outputs are model estimates, not a diagnosis."
 authors:
   - family-names: Berky
     given-names: "Nathaniel Jonathan"
